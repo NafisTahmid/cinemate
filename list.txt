@@ -1,0 +1,7 @@
+050dd82c0782d47568b470862033fdbf
+Movie detail: https://api.themoviedb.org/3/movie/{movie_id}
+Now playing: https://api.themoviedb.org/3/movie/now_playing
+Popular: https://api.themoviedb.org/3/movie/popular
+Top rated:  https://api.themoviedb.org/3/movie/top_rated
+Upcoming:  https://api.themoviedb.org/3/movie/upcoming
+Search: https://api.themoviedb.org/3/search/movie?api_key=""&query={}
